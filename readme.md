@@ -14,7 +14,7 @@ I’m a software engineer focused on building reliable backend systems and APIs.
 ---
 
 ## Projects
-- [Cats Inventory](https://github.com/jlaws710/Cats-Inventory) – Javascript and React service for displaying a current list of cats borrowed from the Cat API data.
+- [Cats Inventory](https://github.com/jlaws710/Cats-Inventory) – Javascript + React service for displaying a current list of cats borrowed from the Cat API data.
 - [Shopping Cart Tracker](https://github.com/jlaws710/Shopping-Cart-Tracker) – Backend service in Spring Boot + SQL for managing shopping carts.
 - [Cassandra Health Monitor](https://github.com/jlaws710/CassandraHealthMonitor) – Backend service in Spring Boot + Cassandra for monitoring the health of Cassandra nodes.
 - [Contact Notes System](https://github.com/jlaws710/Contact-Notes-Go-Backend) – Go + Gin + Postgres service for managing contact notes with JWT authentication.
