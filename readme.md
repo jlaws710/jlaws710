@@ -23,13 +23,6 @@ I’m a software engineer focused on building reliable backend systems and APIs.
 
 ---
 
-## Learning
-- Advanced system design  
-- Cloud platforms (AWS, GCP)  
-- Distributed systems  
-
----
-
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/joseph-lawson-52a60b231/)  
 - [Portfolio](https://github.com/jlaws710/My-Portfolio)  
