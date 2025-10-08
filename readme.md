@@ -5,8 +5,8 @@ I’m a software engineer focused on building reliable backend systems and APIs.
 ---
 
 ## Skills
-- **Languages:** Java, Kotlin, Go, Python, JavaScript  
-- **Frameworks:** Spring Boot, Gin, React  
+- **Languages:** Java, Kotlin, Go, Python, JavaScript, C#  
+- **Frameworks:** Spring Boot, Gin, React, .Net
 - **Databases & Messaging:** PostgreSQL, MySQL, Oracle, Cassandra, Kafka 
 - **Tools:** Docker, Kubernetes, Git, Linux, Postman, CI/CD
 - **Monitoring & Logging:** Datadog, Prometheus, Elasticsearch, OpenSearch
