@@ -9,7 +9,7 @@ I’m a software engineer focused on building reliable backend systems and APIs.
 - **Frameworks:** Spring Boot, Gin, React, .Net
 - **Databases & Messaging:** PostgreSQL, MySQL, Oracle, Cassandra, Kafka 
 - **Tools:** Docker, Kubernetes, Git, Linux, Postman, CI/CD
-- **Monitoring & Logging:** Datadog, Prometheus, Elasticsearch, OpenSearch
+- **Monitoring & Logging:** Datadog, Prometheus, ElasticSearch, OpenSearch
 
 ---
 
