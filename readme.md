@@ -1,6 +1,6 @@
 # Hi, I'm Joseph Lawson 👋  
 
-I’m a software engineer focused on building reliable backend systems and APIs. My interests include system design, cloud infrastructure, and building scaleable web services.  
+I’m a Software Engineer focused on building reliable APIs and backend systems. My interests include system design, cloud infrastructure, and building scaleable web services.  
 
 ---
 
